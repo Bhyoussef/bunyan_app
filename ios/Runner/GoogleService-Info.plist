@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>959523551071-q5iu30jprv2ah5u5node5sourqv4uobj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.959523551071-q5iu30jprv2ah5u5node5sourqv4uobj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqx6qmY2JR27l8qa9Hwje7UI8MzZ-Pjto</string>
+	<key>GCM_SENDER_ID</key>
+	<string>959523551071</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bunyan.bunyan2</string>
+	<key>PROJECT_ID</key>
+	<string>bunyan-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bunyan-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:959523551071:ios:4e43e30fbdeb583947e8ea</string>
+</dict>
+</plist>

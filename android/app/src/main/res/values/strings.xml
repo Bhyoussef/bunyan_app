@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="asset_statements" translatable="false">[{"include": "https://bunyan.qa/.well-known/assetlinks.json"}]</string>
+    <string name="facebook_app_id">474403154094198</string>
+    <string name="fb_login_protocol_scheme">fb474403154094198</string>
+    <string name="facebook_client_token">26da6defcadf5c6cc3edaf8c3d399c16</string>
+</resources>
